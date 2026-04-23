@@ -88,7 +88,7 @@ cd .. && rm -rf call-smsbomb
 Adım	Açıklama
 1	Hedef numarayı girin → +905551234567
 2	Tür seçin → 1 (SMS), 2 (Call), 3 (Her ikisi)
-3	Süre girin → 0 = sonsuz
+3	Süre girin → enter = sonsuz
 🛠️ Sorun Giderme Komutları
 Sorun	Çözüm Komutu
 requests modülü yok	pip install requests
