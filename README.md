@@ -50,8 +50,8 @@ bash
 pip install requests
 bash
 python smscall.py
-
-## 🔶 Linux / macOS için
+''
+### 🔶 Linux / macOS için
 ```bash
 sudo apt update && sudo apt install git python3 -y
 bash
@@ -80,7 +80,7 @@ Hedef numarayı girin → +905551234567
 
 Tür seçin → 1 (SMS), 2 (Call), 3 (Her ikisi)
 
-Süre girin → 0 = sonsuz
+Süre girin → enter = sonsuz
 
 🛠️ Sorun Giderme Komutları
 Sorun	Çözüm Komutu
