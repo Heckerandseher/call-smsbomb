@@ -49,7 +49,7 @@ cd call-smsbomb
 bash
 pip install requests
 bash
-python smscall.py
+python smscall.py```
 🔶 Linux / macOS için
 bash
 sudo apt update && sudo apt install git python3 -y
